@@ -1,1 +1,2 @@
-# PvZ3Envolved-Descompiled
+# PvZ3: Envolved-Descompiled
+OPEN SOURCE
